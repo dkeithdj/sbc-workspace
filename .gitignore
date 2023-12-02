@@ -2,6 +2,8 @@
 # To test that, run `git ls-files -i --exclude-standard`.
 # To check why a specific file is ignored, run `git check-ignore -v <filepath>`.
 
+hello_solana/target/*
+
 # === Rule for dotfiles ===
 # Ignore all dotfiles.
 .*
